@@ -3,8 +3,8 @@
     "Author": "yomishino",
     "Name": "ActionEffectRange",
     "InternalName": "ActionEffectRange",
-    "AssemblyVersion": "2.0.1.0",
-    "TestingAssemblyVersion": "2.0.1.0",
+    "AssemblyVersion": "2.0.1.1",
+    "TestingAssemblyVersion": "2.0.1.1",
     "Punchline": "Provides a visual cue on the effect range of the AoE action just used.",
     "Description": "This plugin provides a visual cue on the effect range of the AoE action you just used.\n\nMay be used as a supplement/replacement to the actions' VFXs in showing effect range related information, such as where has the action landed and how large an area it covered.",
     "ApplicableVersion": "any",
@@ -17,9 +17,9 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "DownloadLinkInstall": "https://github.com/woimqimodkbrne/FFXIVActionEffectRange/releases/download/2.0.1.0/ActionEffectRange.zip",
-    "DownloadLinkUpdate": "https://github.com/woimqimodkbrne/FFXIVActionEffectRange/releases/download/2.0.1.0/ActionEffectRange.zip",
-    "DownloadLinkTesting": "https://github.com/woimqimodkbrne/FFXIVActionEffectRange/releases/download/2.0.1.0/ActionEffectRange.zip",
+    "DownloadLinkInstall": "https://github.com/woimqimodkbrne/FFXIVActionEffectRange/releases/download/2.0.1.1/ActionEffectRange.zip",
+    "DownloadLinkUpdate": "https://github.com/woimqimodkbrne/FFXIVActionEffectRange/releases/download/2.0.1.1/ActionEffectRange.zip",
+    "DownloadLinkTesting": "https://github.com/woimqimodkbrne/FFXIVActionEffectRange/releases/download/2.0.1.1/ActionEffectRange.zip",
     "AcceptsFeedback": true
   }
 ]
